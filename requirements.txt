@@ -6,8 +6,3 @@ numpy
 ultralytics
 opencv-python
 
-streamlit==1.28.0
-ultralytics==8.0.141
-opencv-python==4.8.0.74
-numpy==1.26.0
-Pillow==10.0.0
